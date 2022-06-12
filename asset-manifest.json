@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-Finder/static/css/main.683faeea.css",
+    "main.js": "/job-Finder/static/js/main.12b3f515.js",
+    "index.html": "/job-Finder/index.html",
+    "main.683faeea.css.map": "/job-Finder/static/css/main.683faeea.css.map",
+    "main.12b3f515.js.map": "/job-Finder/static/js/main.12b3f515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.683faeea.css",
+    "static/js/main.12b3f515.js"
+  ]
+}
